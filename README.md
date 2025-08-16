@@ -39,8 +39,4 @@ This project is always in development. Here is a high-level overview of my curre
 
 - [x] Containerize all core services using Docker.
 - [ ] Complete the full migration of all services to a single-node Kubernetes (K3s) cluster.
-- [ ] Achieve 100% infrastructure automation via Ansible playbooks.
-- [ ] Implement a full CI/CD pipeline for automated application testing and deployment.
-- [ ] Deploy a complete observability stack with Prometheus for metrics and Grafana for dashboards.
-- [ ] Explore advanced networking with service meshes (e.g., Linkerd) and ingress controllers.
-- [ ] Conduct low-level systems experiments related to virtualization and kernel performance.
+
