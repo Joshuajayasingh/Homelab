@@ -31,7 +31,7 @@ The lab is built on a single-node server running a minimal Linux distribution. A
 * **Pi-hole:** A network-level ad and tracker blocker that also serves as the local DNS server, allowing me to give memorable names to my internal services.
 * **Immich:** A high-performance, self-hosted photo and video backup solution, serving as a private alternative to Google Photos.
 * **Minecraft Server:** A containerized game server for a private community, managed and kept up-to-date via automated processes.
-* **Portfolio Website:** My personal portfolio, served as a lightweight, containerized web application.
+* **Portfolio Website:** My personal portfolio, served as a lightweight, containerized web application. *(still not open open to public because i dont want to pay 300rs/month to airtel to port forward, so for now i use tailscale to connect all my devices together and use my services)*
 
 ## Current Goals & Future Roadmap
 
